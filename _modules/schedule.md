@@ -2,98 +2,89 @@
 title: Schedule
 ---
 
-Jan 23
-: Intro ([1up](slides/cs288-sp23-introduction.pdf)) ([6up](slides/cs288-sp23-introduction-6up.pdf))
+August 24
+: Introduction
 
-Jan 25
-: Language Modeling ([1up](slides/cs288-sp23-language-modeling.pdf)) ([6up](slides/cs288-sp23-language-modeling-6up.pdf))
+August 29
+: Language modeling: evaluation + classical methods
 
+August 31
+: Language modeling: classical methods
 
-Jan 30
-: Language Modeling
+Sept 5
+: Language modeling: classical methods
 
-Feb 1
-: Machine Translation ([1up](slides/cs288-sp23-machine-translation.pdf)) ([6up](slides/cs288-sp23-machine-translation-6up.pdf))
+Sept 7
+: Machine translation
 
+Sept 12
+: Machine translation
 
-Feb 6
-: Machine Translation (HW1 Due)
+Sept 14
+: Transformers
 
-Feb 8
-: Parsing (HW2 Released)
+Sept 19
+: Panel: core NLP tasks and evaluation
 
-Feb 13
-: Parsing ([1up](slides/cs288-sp23-parsing.pdf)) ([6up](slides/cs288-sp23-parsing-6up.pdf))
+Sept 21
+: Panel: philosophy of evaluation and data
 
+Sept 26
+: Structured prediction: syntactic parsing
 
-Feb 15
-: Parsing
+Sept 28
+: Structured prediction: syntactic parsing
 
-Feb 20
-: No Class, Academic Holiday
+Oct 3
+: Structured prediction
 
-Feb 22
-: Neural Parsing ([1up](slides/cs288-sp23-neural-parsing.pdf)) ([6up](slides/cs288-sp23-neural-parsing-6up.pdf))
-(HW2 Due, HW3 Released)
+Oct 5
+: Structured prediction: semantic parsing + code
 
-Feb 27
-: Speech  ([1up](slides/cs288-sp23-speech.pdf)) ([6up](slides/cs288-sp23-speech-6up.pdf))
+Oct 10
+: Structured prediction: misc
 
-March 1
+Oct 12
+: Large language models: data + pretraining
+
+Oct 17
+: Large language models: architectures
+
+Oct 19
+: Large language models: compute + scaling + efficiency
+
+Oct 24
+: Large language models: adaptation, RLHF
+
+Oct 26
 : Speech
 
-March 6
-: Semantics ([1up](slides/cs288-sp23-semantics.pdf)) ([6up](slides/cs288-sp23-semantics-6up.pdf))
+Oct 31
+: Speech
 
+Nov 2
+: Pragmatics
 
-March 8
-: Pragmatics (HW3 Due)
+Nov 7
+: Mulitmodal: vision and language
 
-March 13
-: Transformer LMs (HW4 Released)  ([1up](slides/cs288-sp23-llm-overview.pdf)) ([6up](slides/cs288-sp23-llm-overview-6up.pdf))
+Nov 9
+: Multimodality: embodied interactive agents
 
+Nov 14
+: Panel: misuse / risk / harm
 
-March 15
-: Language Models at Scale ([1up](slides/cs288-sp23-existing-llms.pdf)) ([6up](slides/cs288-sp23-existing-llms-6up.pdf))
+Nov 16
+: Panel: misuse / risk / harm
 
+Nov 21
+: Panel: retrieval and knowledge-intensive tasks
 
+Nov 23
+: HOLIDAY
 
-March 20
-: Data ([1up](slides/cs288-sp23-llm-data.pdf)) ([6up](slides/cs288-sp23-llm-data-6up.pdf))
+Nov 28
+: Panel: NLP beyond English and text
 
-March 22
-: Systems ([1up](slides/cs288-sp23-scaling-llms.pdf)) ([6up](slides/cs288-sp23-scaling-llms-6up.pdf))
-
-
-Spring Break
-
-April 3
-: Misuse, Risks, Harms ([1up](slides/cs288-sp23-harms.pdf)) ([6up](slides/cs288-sp23-harms-6up.pdf))
-
-April 5
-: Adaptation (HW4 Due)  ([1up](slides/cs288-sp23-adaptation.pdf)) ([6up](slides/cs288-sp23-adaptation-6up.pdf))
-
-
-April 10
-: RLHF / Instruction-tuning (HW5 Released)  ([1up](slides/cs288-sp23-rlhf.pdf)) ([6up](slides/cs288-sp23-rlhf-6up.pdf))
-
-April 12
-: Vision and Language ([1up](slides/cs288-sp23-vision.pdf)) ([6up](slides/cs288-sp23-vision-6up.pdf))
-
-
-
-April 17
-: Retrieval / Knowledge-Intensive Tasks ([1up](slides/cs288-sp23-retrieval.pdf)) ([6up](slides/cs288-sp23-retrieval-6up.pdf))
-
-
-April 19
-: Multilingual Modeling ([1up](slides/cs288-sp23-multilingual.pdf)) ([6up](slides/cs288-sp23-multilingual-6up.pdf))
-
-
-April 24
-: Efficiency and Novel Architectures ([1up](slides/cs288-sp23-efficiency.pdf)) ([6up](slides/cs288-sp23-efficiency-6up.pdf))
-
-
-April 26
-: Future of NLP Panel Discussion (HW5 Due)
-
+Nov 30
+: Panel: future of NLP
