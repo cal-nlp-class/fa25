@@ -54,7 +54,7 @@ Oct 19
 : Large language models: compute + scaling + efficiency
 
 Oct 24
-: Large language models: adaptation, RLHF
+: Large language models: adaptation + RLHF
 
 Oct 26
 : Speech
@@ -66,7 +66,7 @@ Nov 2
 : Pragmatics
 
 Nov 7
-: Mulitmodal: vision and language
+: Multimodality: vision and language
 
 Nov 9
 : Multimodality: embodied interactive agents
