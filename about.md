@@ -1,15 +1,15 @@
 ---
-layout: home 
-title: Home 
+layout: home
+title: Home
 nav_order: 0
 permalink: /:path/
 description: >-
     Course policies and information.
 ---
 
-## Natural Language Processing 
+## Natural Language Processing
 {: .mb-2 }
-Spring 2023
+Fall 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 {% if site.announcements %}

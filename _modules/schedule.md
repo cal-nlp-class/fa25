@@ -9,10 +9,10 @@ Jan 25
 : Language Modeling ([1up](slides/cs288-sp23-language-modeling.pdf)) ([6up](slides/cs288-sp23-language-modeling-6up.pdf))
 
 
-Jan 30 
+Jan 30
 : Language Modeling
 
-Feb 1 
+Feb 1
 : Machine Translation ([1up](slides/cs288-sp23-machine-translation.pdf)) ([6up](slides/cs288-sp23-machine-translation-6up.pdf))
 
 
@@ -27,10 +27,10 @@ Feb 13
 
 
 Feb 15
-: Parsing 
+: Parsing
 
-Feb 20 
-: No Class, Academic Holiday  
+Feb 20
+: No Class, Academic Holiday
 
 Feb 22
 : Neural Parsing ([1up](slides/cs288-sp23-neural-parsing.pdf)) ([6up](slides/cs288-sp23-neural-parsing-6up.pdf))
@@ -40,14 +40,14 @@ Feb 27
 : Speech  ([1up](slides/cs288-sp23-speech.pdf)) ([6up](slides/cs288-sp23-speech-6up.pdf))
 
 March 1
-: Speech  
+: Speech
 
 March 6
 : Semantics ([1up](slides/cs288-sp23-semantics.pdf)) ([6up](slides/cs288-sp23-semantics-6up.pdf))
 
- 
+
 March 8
-: Pragmatics (HW3 Due) 
+: Pragmatics (HW3 Due)
 
 March 13
 : Transformer LMs (HW4 Released)  ([1up](slides/cs288-sp23-llm-overview.pdf)) ([6up](slides/cs288-sp23-llm-overview-6up.pdf))
@@ -67,7 +67,7 @@ March 22
 
 Spring Break
 
-April 3 
+April 3
 : Misuse, Risks, Harms ([1up](slides/cs288-sp23-harms.pdf)) ([6up](slides/cs288-sp23-harms-6up.pdf))
 
 April 5
