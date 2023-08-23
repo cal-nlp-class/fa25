@@ -3,28 +3,28 @@ title: Schedule
 ---
 
 August 24
-: Introduction
+: Introduction *Project 1 released*
 
 August 29
-: Language modeling: evaluation + classical methods
+: Language modeling: statistical models
 
 August 31
-: Language modeling: classical methods
+: Language modeling: early neural models
 
 Sept 5
-: Language modeling: classical methods
+: Language modeling: recurrence *Project 2 released*, **Project 1 due EOD Wednesday, September 6**
 
 Sept 7
 : Machine translation
 
 Sept 12
-: Machine translation
+: Machine translation: neural approaches
 
 Sept 14
 : Transformers
 
 Sept 19
-: Panel: core NLP tasks and evaluation
+: Core NLP tasks, data, and evaluation
 
 Sept 21
 : Panel: philosophy of evaluation and data
@@ -33,16 +33,16 @@ Sept 26
 : Structured prediction: syntactic parsing
 
 Sept 28
-: Structured prediction: syntactic parsing
+: Structured prediction: syntactic parsing **Project 2 due EOD**, *Project 3 released* 
 
 Oct 3
-: Structured prediction
+: Structured prediction: syntactic parsing
 
 Oct 5
-: Structured prediction: semantic parsing + code
+: Structured prediction: compositional semantics
 
 Oct 10
-: Structured prediction: misc
+: Structured prediction: language to other structured representations
 
 Oct 12
 : Large language models: data + pretraining
@@ -72,10 +72,10 @@ Nov 9
 : Multimodality: embodied interactive agents
 
 Nov 14
-: Panel: misuse / risk / harm
+: Panel: misuse / risk / harm in building language technologies
 
 Nov 16
-: Panel: misuse / risk / harm
+: Panel: misuse / risk / harm in deploying language technologies
 
 Nov 21
 : Panel: retrieval and knowledge-intensive tasks
