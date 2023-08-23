@@ -51,7 +51,7 @@ Oct 17
 : Large language models: architectures
 
 Oct 19
-: Large language models: compute + scaling + efficiency
+: Large language models: compute + scaling + efficiency **Project 3 due EOD**, *Project 4 released*
 
 Oct 24
 : Large language models: adaptation + RLHF
@@ -69,7 +69,7 @@ Nov 7
 : Multimodality: vision and language
 
 Nov 9
-: Multimodality: embodied interactive agents
+: Multimodality: embodied interactive agents **Project 4 due EOD**, *Project 5 released*
 
 Nov 14
 : Panel: misuse / risk / harm in building language technologies
@@ -87,4 +87,4 @@ Nov 28
 : Panel: NLP beyond English and text
 
 Nov 30
-: Panel: future of NLP
+: Panel: future of NLP **Project 5 due EOD**
