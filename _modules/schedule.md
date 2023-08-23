@@ -12,13 +12,13 @@ August 31
 : Language modeling: early neural models
 
 Sept 5
-: Language modeling: recurrence **Project 1 due EOD Wednesday, September 6**
+: Language modeling: recurrence 
 
 Sept 7
-: Machine translation *Project 2 released*
+: Machine translation *Project 2 released*, **Project 1 due EOD Monday, September 11**
 
 Sept 12
-: Machine translation: neural approaches
+: Machine translation: neural approaches **New enrollments are processed**
 
 Sept 14
 : Transformers
@@ -78,7 +78,7 @@ Nov 16
 : Panel: misuse / risk / harm in deploying language technologies
 
 Nov 21
-: Panel: retrieval and knowledge-intensive tasks
+: Panel: limitations of current systems
 
 Nov 23
 : HOLIDAY
