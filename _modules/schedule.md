@@ -4,7 +4,8 @@ title: Schedule
 
 August 24
 : Introduction
-: Project 1 released {: .label .label-yellow}
+: Project 1 released 
+{: .label .label-yellow}
 
 August 29
 : Language modeling: statistical models
