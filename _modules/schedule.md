@@ -10,22 +10,22 @@ August 29
 : **Language modeling**{: .label .label-blue} statistical models
 
 August 31
-: Language modeling: early neural models
+: **Language modeling**{: .label .label-blue} early neural models
 
 Sept 5
-: Language modeling: recurrence 
+: **Language modeling**{: .label .label-blue} recurrence 
 
 Sept 7
-: Machine translation 
-: Project 2 released
-: **Project 1 due EOD Monday, September 11**
+: **Language modeling**{: .label .label-blue} Machine translation 
+: **Project 2 released**{: .label .label-yellow}
+: **Project 1 due EOD Monday, September 11**{: .label .label-red}
 
 Sept 12
-: Machine translation: neural approaches 
+: **Language modeling**{: .label .label-blue} Machine translation: neural approaches 
 : **New enrollments are processed**
 
 Sept 14
-: Transformers
+: **Language modeling**{: .label .label-blue} Transformers
 
 Sept 19
 : Core NLP tasks, data, and evaluation
