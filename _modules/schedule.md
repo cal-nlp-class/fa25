@@ -3,7 +3,7 @@ title: Schedule
 ---
 
 August 24
-: Introduction
+: [Introduction](slides/08-24-intro.pdf)
 : **Project 1 released**{: .label .label-yellow}
 
 August 29
@@ -13,15 +13,15 @@ August 31
 : **Language modeling**{: .label .label-blue} Early neural models
 
 Sept 5
-: **Language modeling**{: .label .label-blue} Recurrence 
+: **Language modeling**{: .label .label-blue} Recurrence
 
 Sept 7
-: **Language modeling**{: .label .label-blue} Machine translation 
+: **Language modeling**{: .label .label-blue} Machine translation
 : **Project 2 released**{: .label .label-yellow}
 : **Project 1 due EOD Monday, September 11**{: .label .label-red}
 
 Sept 12
-: **Language modeling**{: .label .label-blue} Machine translation: neural approaches 
+: **Language modeling**{: .label .label-blue} Machine translation: neural approaches
 : **New enrollments are processed**{: .label .label-yellow}
 
 Sept 14
@@ -37,7 +37,7 @@ Sept 26
 : **Structured prediction**{: .label .label-purple} Syntactic parsing
 
 Sept 28
-: **Structured prediction**{: .label .label-purple} Syntactic parsing 
+: **Structured prediction**{: .label .label-purple} Syntactic parsing
 : **Project 2 due EOD**{: .label .label-red}
 : **Project 3 released**{: .label .label-yellow}
 
@@ -57,7 +57,7 @@ Oct 17
 : **LLMs**{: .label .label-orange} Architectures
 
 Oct 19
-: **LLMs**{: .label .label-orange} Compute + scaling + efficiency 
+: **LLMs**{: .label .label-orange} Compute + scaling + efficiency
 : **Project 3 due EOD**{: .label .label-red}
 : **Project 4 released**{: .label .label-yellow}
 
@@ -77,7 +77,7 @@ Nov 7
 : **Beyond text**{: .label .label-green} Vision and language
 
 Nov 9
-: **Beyond text**{: .label .label-green} Embodied interactive agents 
+: **Beyond text**{: .label .label-green} Embodied interactive agents
 : **Project 4 due EOD**{: .label .label-red}
 : **Project 5 released**{: .label .label-yellow}
 
@@ -97,5 +97,5 @@ Nov 28
 : Panel: NLP beyond English and text
 
 Nov 30
-: Panel: future of NLP 
+: Panel: future of NLP
 : **Project 5 due EOD**{: .label .label-red}
