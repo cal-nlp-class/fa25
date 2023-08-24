@@ -34,52 +34,52 @@ Sept 21
 : Panel: philosophy of evaluation and data
 
 Sept 26
-: Structured prediction: syntactic parsing
+: **Structured prediction**{: .label .label-purple} syntactic parsing
 
 Sept 28
-: Structured prediction: syntactic parsing 
-: **Project 2 due EOD**
-: Project 3 released
+: **Structured prediction**{: .label .label-purple} syntactic parsing 
+: **Project 2 due EOD**{: .label .label-red}
+: **Project 3 released**{: .label .label-yellow}
 
 Oct 3
-: Structured prediction: syntactic parsing
+: **Structured prediction**{: .label .label-purple} syntactic parsing
 
 Oct 5
-: Structured prediction: compositional semantics
+: **Structured prediction**{: .label .label-purple} compositional semantics
 
 Oct 10
-: Structured prediction: language to other structured representations
+: **Structured prediction**{: .label .label-purple} language to other structured representations
 
 Oct 12
-: Large language models: data + pretraining
+: **Large language models**{: .label .label-orange} data + pretraining
 
 Oct 17
-: Large language models: architectures
+: **Large language models**{: .label .label-orange} architectures
 
 Oct 19
-: Large language models: compute + scaling + efficiency 
-: **Project 3 due EOD**
-: Project 4 released
+: **Large language models**{: .label .label-orange} compute + scaling + efficiency 
+: **Project 3 due EOD**{: .label .label-red}
+: **Project 4 released**{: .label .label-yellow}
 
 Oct 24
-: Large language models: adaptation + RLHF
+: **Large language models**{: .label .label-orange} adaptation + RLHF
 
 Oct 26
-: Speech
+: **Beyond text**{: .label .label-green} Speech
 
 Oct 31
-: Speech
+: **Beyond text**{: .label .label-green} Speech
 
 Nov 2
-: Pragmatics
+: **Beyond text**{: .label .label-green} Pragmatics
 
 Nov 7
-: Multimodality: vision and language
+: **Beyond text**{: .label .label-green} Multimodality: vision and language
 
 Nov 9
-: Multimodality: embodied interactive agents 
-: **Project 4 due EOD**
-: Project 5 released
+: **Beyond text**{: .label .label-green} embodied interactive agents 
+: **Project 4 due EOD**{: .label .label-red}
+: **Project 5 released**{: .label .label-yellow}
 
 Nov 14
 : Panel: misuse / risk / harm in building language technologies
@@ -98,4 +98,4 @@ Nov 28
 
 Nov 30
 : Panel: future of NLP 
-: **Project 5 due EOD**
+: **Project 5 due EOD**{: .label .label-red}
