@@ -22,7 +22,7 @@ Sept 7
 
 Sept 12
 : **Language modeling**{: .label .label-blue} Machine translation: neural approaches 
-: **New enrollments are processed**
+: **New enrollments are processed**{: .label .label-yellow}
 
 Sept 14
 : **Language modeling**{: .label .label-blue} Transformers
