@@ -7,13 +7,13 @@ August 24
 : **Project 1 released**{: .label .label-yellow}
 
 August 29
-: **Language modeling**{: .label .label-blue} statistical models
+: **Language modeling**{: .label .label-blue} Statistical models
 
 August 31
-: **Language modeling**{: .label .label-blue} early neural models
+: **Language modeling**{: .label .label-blue} Early neural models
 
 Sept 5
-: **Language modeling**{: .label .label-blue} recurrence 
+: **Language modeling**{: .label .label-blue} Recurrence 
 
 Sept 7
 : **Language modeling**{: .label .label-blue} Machine translation 
@@ -34,35 +34,35 @@ Sept 21
 : Panel: philosophy of evaluation and data
 
 Sept 26
-: **Structured prediction**{: .label .label-purple} syntactic parsing
+: **Structured prediction**{: .label .label-purple} Syntactic parsing
 
 Sept 28
-: **Structured prediction**{: .label .label-purple} syntactic parsing 
+: **Structured prediction**{: .label .label-purple} Syntactic parsing 
 : **Project 2 due EOD**{: .label .label-red}
 : **Project 3 released**{: .label .label-yellow}
 
 Oct 3
-: **Structured prediction**{: .label .label-purple} syntactic parsing
+: **Structured prediction**{: .label .label-purple} Syntactic parsing
 
 Oct 5
-: **Structured prediction**{: .label .label-purple} compositional semantics
+: **Structured prediction**{: .label .label-purple} Compositional semantics
 
 Oct 10
-: **Structured prediction**{: .label .label-purple} language to other structured representations
+: **Structured prediction**{: .label .label-purple} Language to other structured representations
 
 Oct 12
-: **Large language models**{: .label .label-orange} data + pretraining
+: **LLMs**{: .label .label-orange} Data + pretraining
 
 Oct 17
-: **Large language models**{: .label .label-orange} architectures
+: **LLMs**{: .label .label-orange} Architectures
 
 Oct 19
-: **Large language models**{: .label .label-orange} compute + scaling + efficiency 
+: **LLMs**{: .label .label-orange} Compute + scaling + efficiency 
 : **Project 3 due EOD**{: .label .label-red}
 : **Project 4 released**{: .label .label-yellow}
 
 Oct 24
-: **Large language models**{: .label .label-orange} adaptation + RLHF
+: **LLMs**{: .label .label-orange} Adaptation + RLHF
 
 Oct 26
 : **Beyond text**{: .label .label-green} Speech
@@ -74,10 +74,10 @@ Nov 2
 : **Beyond text**{: .label .label-green} Pragmatics
 
 Nov 7
-: **Beyond text**{: .label .label-green} Multimodality: vision and language
+: **Beyond text**{: .label .label-green} Vision and language
 
 Nov 9
-: **Beyond text**{: .label .label-green} embodied interactive agents 
+: **Beyond text**{: .label .label-green} Embodied interactive agents 
 : **Project 4 due EOD**{: .label .label-red}
 : **Project 5 released**{: .label .label-yellow}
 
