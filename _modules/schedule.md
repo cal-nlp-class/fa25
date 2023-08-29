@@ -7,7 +7,8 @@ August 24
 : **Project 1 released**{: .label .label-yellow}
 
 August 29
-: **Language modeling**{: .label .label-blue} Statistical models
+: **Language modeling**{: .label .label-blue}
+[Statistical models](slides/08-29-language-modeling-1.pdf)
 
 August 31
 : **Language modeling**{: .label .label-blue} Early neural models
