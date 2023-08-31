@@ -12,7 +12,7 @@ August 29
 
 August 31
 : **Language modeling**{: .label .label-blue}
-[Early neural models](slides/08-31-language-modeling-2.pdf)
+[Representation learning and early neural models](slides/08-31-language-modeling-2.pdf)
 
 Sept 5
 : **Language modeling**{: .label .label-blue} Recurrence
