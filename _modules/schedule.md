@@ -11,7 +11,7 @@ August 29
 [Statistical models](slides/08-29-language-modeling-1.pdf)
 
 August 31
-: **Language modeling**{: .label .label-blue} Early neural models
+: **Language modeling**{: .label .label-blue} [Representation learning and early neural models](slides/embeddings.pdf)
 
 Sept 5
 : **Language modeling**{: .label .label-blue} Recurrence
