@@ -15,7 +15,8 @@ August 31
 [Representation learning and early neural models](slides/08-31-language-modeling-2.pdf)
 
 Sept 5
-: **Language modeling**{: .label .label-blue} Recurrence
+: **Language modeling**{: .label .label-blue}
+[Recurrence](slides/09-05-language-modeling-3.pdf)
 
 Sept 7
 : **Language modeling**{: .label .label-blue} Machine translation
