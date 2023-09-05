@@ -16,10 +16,11 @@ August 31
 
 Sept 5
 : **Language modeling**{: .label .label-blue}
-[Recurrence](slides/09-05-language-modeling-3.pdf)
+[Neural models](slides/09-05-language-modeling-3.pdf)
 
 Sept 7
-: **Language modeling**{: .label .label-blue} Machine translation
+: **Language modeling**{: .label .label-blue}
+[Recurrence](slides/09-05-language-modeling-4.pdf)
 : **Project 2 released**{: .label .label-yellow}
 : **Project 1 due EOD Monday, September 11**{: .label .label-red}
 
