@@ -25,7 +25,8 @@ Sept 7
 : **Project 1 due EOD Monday, September 11**{: .label .label-red}
 
 Sept 12
-: **Language modeling**{: .label .label-blue} Machine translation: neural approaches
+: **Language modeling**{: .label .label-blue} 
+[Machine translation: neural approaches](slides/09-12-language-modeling-5.pdf)
 : **New enrollments are processed**{: .label .label-yellow}
 
 Sept 14
