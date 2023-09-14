@@ -30,10 +30,11 @@ Sept 12
 : **New enrollments are processed**{: .label .label-yellow}
 
 Sept 14
-: **Language modeling**{: .label .label-blue} Transformers
+: **Language modeling**{: .label .label-blue} 
+[Machine translation: neural approaches pt.2](slides/09-14-language-modeling-6.pdf)
 
 Sept 19
-: Core NLP tasks, data, and evaluation
+: Transformers; Core NLP tasks, data, and evaluation
 
 Sept 21
 : Panel: philosophy of evaluation and data
