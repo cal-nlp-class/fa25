@@ -34,13 +34,13 @@ Sept 14
 [Machine translation: neural approaches pt.2](slides/09-14-language-modeling-6.pdf)
 
 Sept 19
-: Transformers; Core NLP tasks, data, and evaluation
+: Transformers 
 
 Sept 21
-: Panel: philosophy of evaluation and data
+: Core NLP tasks, data, and evaluation
 
 Sept 26
-: **Structured prediction**{: .label .label-purple} Syntactic parsing
+: Panel: philosophy of evaluation and data
 
 Sept 28
 : **Structured prediction**{: .label .label-purple} Syntactic parsing
