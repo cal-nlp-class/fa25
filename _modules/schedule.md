@@ -34,10 +34,11 @@ Sept 14
 [Machine translation: neural approaches pt.2](slides/09-14-language-modeling-6.pdf)
 
 Sept 19
-: Transformers 
+: **Language modeling**{: .label .label-blue} 
+[Transformers](slides/09-19-language-modeling-7.pdf)
 
 Sept 21
-: [Core NLP tasks, data, and evaluation](slides/nlp_tasks_data_eval.pdf)
+: [Core NLP tasks, data, and evaluation](slides/09-21-nlp_tasks_data_eval.pdf)
 
 Sept 26
 : Panel: philosophy of evaluation and data
