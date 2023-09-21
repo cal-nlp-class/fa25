@@ -37,7 +37,7 @@ Sept 19
 : Transformers 
 
 Sept 21
-: [Core NLP tasks, data, and evaluation](nlp_tasks_data_eval.pdf)
+: [Core NLP tasks, data, and evaluation](slides/nlp_tasks_data_eval.pdf)
 
 Sept 26
 : Panel: philosophy of evaluation and data
