@@ -44,7 +44,7 @@ Sept 26
 : Panel: philosophy of evaluation and data
 
 Sept 28
-: **Structured prediction**{: .label .label-purple} Syntactic parsing
+: **Structured prediction**{: .label .label-purple} [Syntactic parsing](slides/09-28-syntax_parsing.pdf)
 : **Project 2 due EOD**{: .label .label-red}
 : **Project 3 released**{: .label .label-yellow}
 
