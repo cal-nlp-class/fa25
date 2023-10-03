@@ -49,7 +49,7 @@ Sept 28
 : **Project 3 released**{: .label .label-yellow}
 
 Oct 3
-: **Structured prediction**{: .label .label-purple} Syntactic parsing
+: **Structured prediction**{: .label .label-purple} [Syntactic parsing](slides/10-03-neural-constituency-parsing.pdf)
 
 Oct 5
 : **Structured prediction**{: .label .label-purple} Compositional semantics
