@@ -52,7 +52,7 @@ Oct 3
 : **Structured prediction**{: .label .label-purple} [Syntactic parsing](slides/10-03-neural-constituency-parsing.pdf)
 
 Oct 5
-: **Structured prediction**{: .label .label-purple} Compositional semantics
+: **Structured prediction**{: .label .label-purple} [Compositional semantics](slides/10-05-semantics.pdf)
 
 Oct 10
 : **Structured prediction**{: .label .label-purple} Language to other structured representations
