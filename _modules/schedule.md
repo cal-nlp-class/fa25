@@ -55,7 +55,7 @@ Oct 5
 : **Structured prediction**{: .label .label-purple} [Compositional semantics](slides/10-05-semantics.pdf)
 
 Oct 10
-: **Structured prediction**{: .label .label-purple} Language to other structured representations
+: **Structured prediction**{: .label .label-purple} [Language to other structured representations](slides/10-10-semantics.pdf)
 
 Oct 12
 : **LLMs**{: .label .label-orange} Data + pretraining
