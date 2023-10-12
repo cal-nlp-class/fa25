@@ -58,11 +58,10 @@ Oct 10
 : **Structured prediction**{: .label .label-purple} [Language to other structured representations](slides/10-10-semantics.pdf)
 
 Oct 12
-: **LLMs**{: .label .label-orange} Data + pretraining
+: **LLMs**{: .label .label-orange} [LM recap, LLM architectures, inference, training objectives](slides/10-12-llm-arch.pdf)
 
 Oct 17
-: **LLMs**{: .label .label-orange} Architectures
-
+: **LLMs**{: .label .label-orange} Training, data, evaluation
 Oct 19
 : **LLMs**{: .label .label-orange} Compute + scaling + efficiency
 : **Project 3 due EOD**{: .label .label-red}
