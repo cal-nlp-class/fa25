@@ -62,6 +62,7 @@ Oct 12
 
 Oct 17
 : **LLMs**{: .label .label-orange} Training, data, evaluation
+
 Oct 19
 : **LLMs**{: .label .label-orange} Compute + scaling + efficiency
 : **Project 3 due EOD**{: .label .label-red}
