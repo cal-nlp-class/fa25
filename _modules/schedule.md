@@ -61,47 +61,47 @@ Oct 12
 : **LLMs**{: .label .label-orange} [LM recap, LLM architectures, inference, training objectives](slides/10-12-llm-arch.pdf)
 
 Oct 17
-: **LLMs**{: .label .label-orange} Training, data, evaluation
+: **LLMs**{: .label .label-orange} [Training, data, evaluation](slides/10-17-llm-training.pdf)
 
 Oct 19
-: **LLMs**{: .label .label-orange} Compute + scaling + efficiency
+: **LLMs**{: .label .label-orange} Adaptation: RLHF, instruction-tuning, etc.
 : **Project 3 due EOD**{: .label .label-red}
 : **Project 4 released**{: .label .label-yellow}
 
 Oct 24
-: **LLMs**{: .label .label-orange} Adaptation + RLHF
+: **LLMs**{: .label .label-orange} Compute + scaling + efficiency
 
 Oct 26
-: **Beyond text**{: .label .label-green} Speech
+: Panel: considerations in building LLMs (risks, harms, misuse)
 
 Oct 31
 : **Beyond text**{: .label .label-green} Speech
 
 Nov 2
-: **Beyond text**{: .label .label-green} Pragmatics
+: **Beyond text**{: .label .label-green} Speech
 
 Nov 7
-: **Beyond text**{: .label .label-green} Vision and language
+: **Beyond text**{: .label .label-green} Pragmatics
 
 Nov 9
-: **Beyond text**{: .label .label-green} Embodied interactive agents
+: **Beyond text**{: .label .label-green} Vision and language
 : **Project 4 due EOD**{: .label .label-red}
 : **Project 5 released**{: .label .label-yellow}
 
 Nov 14
-: Panel: misuse / risk / harm in building language technologies
+: **Beyond text**{: .label .label-green} Embodied interactive agents
 
 Nov 16
-: Panel: misuse / risk / harm in deploying language technologies
+: Panel: NLP beyond text (speech vision, embodiment)
 
 Nov 21
-: Panel: limitations of current systems
+: Panel: NLP beyond English
 
 Nov 23
 : HOLIDAY
 
 Nov 28
-: Panel: NLP beyond English and text
+: Panel: limitations
 
 Nov 30
 : Panel: future of NLP
