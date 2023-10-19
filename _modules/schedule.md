@@ -64,7 +64,7 @@ Oct 17
 : **LLMs**{: .label .label-orange} [Training, data, evaluation](slides/10-17-llm-training.pdf)
 
 Oct 19
-: **LLMs**{: .label .label-orange} Adaptation: RLHF, instruction-tuning, etc.
+: **LLMs**{: .label .label-orange} [Adaptation: RLHF, instruction-tuning, etc.](slides/10-19-llm-adaptation.pdf)
 : **Project 3 due EOD**{: .label .label-red}
 : **Project 4 released**{: .label .label-yellow}
 
