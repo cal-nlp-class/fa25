@@ -69,10 +69,10 @@ Oct 19
 : **Project 4 released**{: .label .label-yellow}
 
 Oct 24
-: **LLMs**{: .label .label-orange} Compute + scaling + efficiency
+: **LLMs**{: .label .label-orange} [RLHF, scaling and efficiency, impacts](slides/10-24-lllm-compute.pdf)
 
 Oct 26
-: Panel: considerations in building LLMs (risks, harms, misuse)
+: Panel: considerations in building/deploying LLMs (risks, harms, misuse)
 
 Oct 31
 : **Beyond text**{: .label .label-green} Speech
