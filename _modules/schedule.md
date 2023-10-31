@@ -75,7 +75,7 @@ Oct 26
 : Panel: considerations in building/deploying LLMs (risks, harms, misuse)
 
 Oct 31
-: **Beyond text**{: .label .label-green} Speech
+: **Beyond text**{: .label .label-green} [Speech](slides/10-31-speech-1.pdf)
 
 Nov 2
 : **Beyond text**{: .label .label-green} Speech
