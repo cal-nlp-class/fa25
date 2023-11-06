@@ -95,7 +95,7 @@ Nov 16
 : Panel: NLP beyond text (speech vision, embodiment)
 
 Nov 21
-: Panel: NLP beyond English
+: Panel: NLP beyond English **REMOTE ONLY**
 
 Nov 23
 : HOLIDAY
