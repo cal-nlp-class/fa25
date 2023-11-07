@@ -81,7 +81,7 @@ Nov 2
 : **Beyond text**{: .label .label-green} Speech
 
 Nov 7
-: **Beyond text**{: .label .label-green} Pragmatics
+: **Beyond text**{: .label .label-green} [Pragmatics](slides/11-07-pragmatics.pdf)
 
 Nov 9
 : **Beyond text**{: .label .label-green} Vision and language
