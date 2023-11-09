@@ -84,7 +84,7 @@ Nov 7
 : **Beyond text**{: .label .label-green} [Pragmatics](slides/11-07-pragmatics.pdf)
 
 Nov 9
-: **Beyond text**{: .label .label-green} Vision and language
+: **Beyond text**{: .label .label-green} [Vision and language](slides/11-09-vision-language.pdf)
 : **Project 4 due EOD**{: .label .label-red}
 : **Project 5 released**{: .label .label-yellow}
 
