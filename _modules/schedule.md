@@ -89,7 +89,7 @@ Nov 9
 : **Project 5 released**{: .label .label-yellow}
 
 Nov 14
-: **Beyond text**{: .label .label-green} Embodied interactive agents
+: **Beyond text**{: .label .label-green} [Embodied interactive agents](slides/11-14-embodiment.pdf)
 
 Nov 16
 : Panel: NLP beyond text (speech vision, embodiment)
