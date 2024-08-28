@@ -9,7 +9,7 @@ description: >-
 
 ## Natural Language Processing
 {: .mb-2 }
-Fall 2023
+Fall 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 {% if site.announcements %}

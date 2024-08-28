@@ -1,7 +1,7 @@
 ---
-title: Schedule
+title: Schedule (TBD)
 ---
-
+<!-- 
 August 24
 : [Introduction](slides/08-24-intro.pdf)
 : **Project 1 released**{: .label .label-yellow}
@@ -105,4 +105,4 @@ Nov 28
 
 Nov 30
 : Panel: future of NLP
-: **Project 5 due EOD**{: .label .label-red}
+: **Project 5 due EOD**{: .label .label-red} -->
