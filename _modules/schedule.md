@@ -3,12 +3,12 @@ title: Schedule
 ---
 
 August 29
-: [Introduction]()
+: [Introduction](slides/intro.pdf)
 : **Project 1 released by EOD Friday, August 30**{: .label .label-yellow}
 
 Sept 3
 : **Language modeling**{: .label .label-blue}
-[Statistical models]()
+[Statistical models](slides/lm.pdf)
 
 Sept 5
 : **Language modeling**{: .label .label-blue}
