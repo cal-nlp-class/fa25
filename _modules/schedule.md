@@ -12,7 +12,7 @@ Sept 3
 
 Sept 5
 : **Language modeling**{: .label .label-blue}
-Representation learning and early neural models
+[Representation learning and early neural models](slides/lm.pdf)
 
 Sept 10
 : **Language modeling**{: .label .label-blue}
