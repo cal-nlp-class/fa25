@@ -9,14 +9,17 @@ August 29
 Sept 3
 : **Language modeling**{: .label .label-blue}
 [Statistical models](slides/lm.pdf)
+| [J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
 Sept 5
 : **Language modeling**{: .label .label-blue}
 [Representation learning and early neural models](slides/lm.pdf)
+| [E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Sept 10
 : **Language modeling**{: .label .label-blue}
 Neural models
+| [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Sept 12
 : **Language modeling**{: .label .label-blue}
@@ -27,6 +30,7 @@ Recurrence
 Sept 17
 : **Language modeling**{: .label .label-blue} 
 Machine translation: neural approaches
+| [J&M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 <!-- : **New enrollments are processed**{: .label .label-yellow} -->
 
 Sept 19
@@ -47,6 +51,7 @@ Oct 3
 : **Structured prediction**{: .label .label-purple} Syntactic parsing
 <!-- : **Project 2 due EOD**{: .label .label-red} -->
 <!-- : **Project 3 released**{: .label .label-yellow} -->
+| [J&M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 Oct 8
 : **Structured prediction**{: .label .label-purple} Syntactic parsing
@@ -76,6 +81,7 @@ Oct 31
 
 Nov 5
 : **Beyond text**{: .label .label-green} Speech
+| [J&M 16](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
 Nov 7
 : **Beyond text**{: .label .label-green} Speech
