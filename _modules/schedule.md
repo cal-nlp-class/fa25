@@ -18,7 +18,7 @@ Sept 5
 
 Sept 10
 : **Language modeling**{: .label .label-blue}
-Neural models
+[Neural models](slides/lm2.pdf)
 | [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Sept 12
