@@ -23,7 +23,7 @@ Sept 10
 
 Sept 12
 : **Language modeling**{: .label .label-blue}
-Recurrence
+[Recurrence](slides/lm3.pdf)
 <!-- : **Project 2 released**{: .label .label-yellow} -->
 : **Project 1 due EOD Monday, September 16**{: .label .label-red}
 
