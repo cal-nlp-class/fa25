@@ -13,55 +13,56 @@ Sept 3
 
 Sept 5
 : **Language modeling**{: .label .label-blue}
-[Representation learning and early neural models](slides/lm.pdf)
-| [E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+[Statistical models](slides/lm.pdf)
 
 Sept 10
 : **Language modeling**{: .label .label-blue}
-[Neural models](slides/lm2.pdf)
-| [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+[Representation learning and early neural models](slides/lm.pdf)
+| [E 3.0-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf); [G 1-5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Sept 12
 : **Language modeling**{: .label .label-blue}
-[Recurrence](slides/lm3.pdf)
+[Neural models](slides/lm2.pdf)
+| [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf); [Goldberg 10-11](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 : **Project 1 due EOD Monday, September 16**{: .label .label-red}
 
 Sept 17
 : **Language modeling**{: .label .label-blue} 
-Machine translation: neural approaches
-| [J&M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
+[Recurrence](slides/lm3.pdf)
 : **Project 2 released**{: .label .label-yellow}
 <!-- : **New enrollments are processed**{: .label .label-yellow} -->
 
 Sept 19
 : **Language modeling**{: .label .label-blue} 
-Machine translation: neural approaches pt.2
+Machine translation: neural approaches
+| [J&M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 
 Sept 24
 : **Language modeling**{: .label .label-blue} 
-Transformers
+Machine translation: neural approaches pt.2
 
 Sept 26
-: Core NLP tasks, data, and evaluation
+: **Language modeling**{: .label .label-blue} 
+Transformers
 
 Oct 1
-: Panel: philosophy of evaluation and data
+: Core NLP tasks, data, and evaluation
 
 Oct 3
-: **Structured prediction**{: .label .label-purple} Syntactic parsing
-<!-- : **Project 2 due EOD**{: .label .label-red} -->
-<!-- : **Project 3 released**{: .label .label-yellow} -->
-| [J&M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
+: Panel: philosophy of evaluation and data
 : **Project 2 due EOD Monday, October 7**{: .label .label-red}
 
 Oct 8
 : **Structured prediction**{: .label .label-purple} Syntactic parsing
+<!-- : **Project 2 due EOD**{: .label .label-red} -->
+<!-- : **Project 3 released**{: .label .label-yellow} -->
+| [J&M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 Oct 10
-: **Structured prediction**{: .label .label-purple} Compositional semantics
+: **Structured prediction**{: .label .label-purple} Syntactic parsing
 
 Oct 15
-: **Structured prediction**{: .label .label-purple} Language to other structured representations
+: **Structured prediction**{: .label .label-purple} Compositional semantics
 
 Oct 17
 : **LLMs**{: .label .label-orange} LM recap, LLM architectures, inference, training objectives
