@@ -24,13 +24,13 @@ Sept 10
 Sept 12
 : **Language modeling**{: .label .label-blue}
 [Recurrence](slides/lm3.pdf)
-<!-- : **Project 2 released**{: .label .label-yellow} -->
 : **Project 1 due EOD Monday, September 16**{: .label .label-red}
 
 Sept 17
 : **Language modeling**{: .label .label-blue} 
 Machine translation: neural approaches
 | [J&M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
+: **Project 2 released**{: .label .label-yellow}
 <!-- : **New enrollments are processed**{: .label .label-yellow} -->
 
 Sept 19
@@ -52,6 +52,7 @@ Oct 3
 <!-- : **Project 2 due EOD**{: .label .label-red} -->
 <!-- : **Project 3 released**{: .label .label-yellow} -->
 | [J&M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
+: **Project 2 due EOD Monday, October 7**{: .label .label-red}
 
 Oct 8
 : **Structured prediction**{: .label .label-purple} Syntactic parsing
