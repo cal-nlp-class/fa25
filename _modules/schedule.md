@@ -34,7 +34,7 @@ Sept 17
 
 Sept 19
 : **Language modeling**{: .label .label-blue} 
-Machine translation: neural approaches
+[Machine translation: neural approaches](slides/09-19-mt.pdf)
 | [J&M 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)
 
 Sept 24
