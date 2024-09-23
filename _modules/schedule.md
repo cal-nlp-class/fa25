@@ -39,7 +39,7 @@ Sept 19
 
 Sept 24
 : **Language modeling**{: .label .label-blue} 
-Machine translation: neural approaches pt.2
+[Machine translation: neural approaches pt.2](slides/mt2.pdf)
 
 Sept 26
 : **Language modeling**{: .label .label-blue} 
