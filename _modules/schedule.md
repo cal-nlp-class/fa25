@@ -43,7 +43,7 @@ Sept 24
 
 Sept 26
 : **Language modeling**{: .label .label-blue} 
-Transformers
+[Transformers](slides/9_26_mt.pdf)
 
 Oct 1
 : Core NLP tasks, data, and evaluation
