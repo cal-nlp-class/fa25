@@ -46,7 +46,7 @@ Sept 26
 [Transformers](slides/9_26_mt.pdf)
 
 Oct 1
-: Core NLP tasks, data, and evaluation
+: [Core NLP tasks, data, and evaluation](slides/nlp_tasks_data_eval.pdf)
 
 Oct 3
 : Panel: philosophy of evaluation and data
