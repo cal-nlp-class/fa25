@@ -49,7 +49,7 @@ Oct 1
 : [Core NLP tasks, data, and evaluation](slides/nlp_tasks_data_eval.pdf)
 
 Oct 3
-: Panel: philosophy of evaluation and data
+: Panel: philosophy of evaluation and data [slides](slides/tde_panel.pdf)
 : **Project 2 due EOD Monday, October 7**{: .label .label-red}
 
 Oct 8
