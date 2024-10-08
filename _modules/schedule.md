@@ -53,7 +53,7 @@ Oct 3
 : **Project 2 due EOD Monday, October 7**{: .label .label-red}
 
 Oct 8
-: **Structured prediction**{: .label .label-purple} Syntactic parsing
+: **Structured prediction**{: .label .label-purple} [Syntactic parsing](slides/parsing.pdf)
 <!-- : **Project 2 due EOD**{: .label .label-red} -->
 <!-- : **Project 3 released**{: .label .label-yellow} -->
 | [J&M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
