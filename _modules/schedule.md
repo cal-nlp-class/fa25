@@ -62,7 +62,7 @@ Oct 10
 : **Structured prediction**{: .label .label-purple} [Syntactic parsing](slides/parsing.pdf)
 
 Oct 15
-: **Structured prediction**{: .label .label-purple} Compositional semantics
+: **Structured prediction**{: .label .label-purple} [Compositional semantics](slides/semantics.pdf)
 
 Oct 17
 : **LLMs**{: .label .label-orange} LM recap, LLM architectures, inference, training objectives
