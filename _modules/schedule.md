@@ -65,7 +65,7 @@ Oct 15
 : **Structured prediction**{: .label .label-purple} [Compositional semantics](slides/semantics.pdf)
 
 Oct 17
-: **LLMs**{: .label .label-orange} LM recap, LLM architectures, inference, training objectives
+: **LLMs**{: .label .label-orange} [LM recap and base LLM training](slides/base_llm_training.pdf)
 
 Oct 22
 : **LLMs**{: .label .label-orange} Training, data, evaluation
