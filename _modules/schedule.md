@@ -68,7 +68,7 @@ Oct 17
 : **LLMs**{: .label .label-orange} [LM recap and base LLM training](slides/base_llm_training.pdf)
 
 Oct 22
-: **LLMs**{: .label .label-orange} Training, data, evaluation
+: **LLMs**{: .label .label-orange} [Base LLM training, inference](slides/10-22-llm-training.pdf)
 
 Oct 24
 : **LLMs**{: .label .label-orange} Adaptation: RLHF, instruction-tuning, etc.
