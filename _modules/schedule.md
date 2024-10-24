@@ -71,7 +71,7 @@ Oct 22
 : **LLMs**{: .label .label-orange} [Base LLM training, inference](slides/10-22-llm-training.pdf)
 
 Oct 24
-: **LLMs**{: .label .label-orange} Adaptation: RLHF, instruction-tuning, etc.
+: **LLMs**{: .label .label-orange} [Adaptation: RLHF, instruction-tuning, etc.](slides/10-24-llm-adaptation.pdf)
 <!-- : **Project 3 due EOD**{: .label .label-red} -->
 <!-- : **Project 4 released**{: .label .label-yellow} -->
 
