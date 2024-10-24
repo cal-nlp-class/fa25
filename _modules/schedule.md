@@ -73,7 +73,7 @@ Oct 22
 Oct 24
 : **LLMs**{: .label .label-orange} [Adaptation: RLHF, instruction-tuning, etc.](slides/10-24-llm-adaptation.pdf)
 <!-- : **Project 3 due EOD**{: .label .label-red} -->
-<!-- : **Project 4 released**{: .label .label-yellow} -->
+: **Project 4 released**{: .label .label-yellow}
 
 Oct 29
 : **LLMs**{: .label .label-orange} RLHF, scaling and efficiency, impacts
