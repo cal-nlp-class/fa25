@@ -55,7 +55,7 @@ Oct 3
 Oct 8
 : **Structured prediction**{: .label .label-purple} [Syntactic parsing](slides/parsing.pdf)
 <!-- : **Project 2 due EOD**{: .label .label-red} -->
-<!-- : **Project 3 released**{: .label .label-yellow} -->
+: **Project 3 released**{: .label .label-yellow}
 | [J&M 18](https://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 Oct 10
@@ -77,6 +77,7 @@ Oct 24
 
 Oct 29
 : **LLMs**{: .label .label-orange} RLHF, scaling and efficiency, impacts
+: **Project 3 due EOD**{: .label .label-red}
 
 Oct 31
 : Panel: considerations in building/deploying LLMs (risks, harms, misuse)
@@ -93,7 +94,7 @@ Nov 12
 
 Nov 14
 : **Beyond text**{: .label .label-green} Vision and language
-<!-- : **Project 4 due EOD**{: .label .label-red} -->
+: **Project 4 due EOD**{: .label .label-red}
 <!-- : **Project 5 released**{: .label .label-yellow} -->
 
 Nov 19
