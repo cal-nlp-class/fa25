@@ -76,35 +76,35 @@ Oct 24
 : **Project 4 released**{: .label .label-yellow}
 
 Oct 29
-: **LLMs**{: .label .label-orange} RLHF, scaling and efficiency, impacts
+: **LLMs**{: .label .label-orange} [RLHF, scaling and efficiency, impacts](slides/10-29-llm-compute.pdf)
 : **Project 3 due EOD**{: .label .label-red}
 
 Oct 31
-: Panel: considerations in building/deploying LLMs (risks, harms, misuse)
+: **LLMs**{: .label .label-orange} Misc: more inference, RLHF alternatives, interpretability, etc.
 
 Nov 5
+: Panel: considerations in building/deploying LLMs (risks, harms, misuse)
+
+Nov 7
+: **Beyond text**{: .label .label-green} Pragmatics
+
+Nov 12
 : **Beyond text**{: .label .label-green} Speech
 | [J&M 16](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
-Nov 7
-: **Beyond text**{: .label .label-green} Speech
-
-Nov 12
-: **Beyond text**{: .label .label-green} Pragmatics
-
 Nov 14
-: **Beyond text**{: .label .label-green} Vision and language
-: **Project 4 due EOD**{: .label .label-red}
+: **Beyond text**{: .label .label-green} Speech
 <!-- : **Project 5 released**{: .label .label-yellow} -->
 
 Nov 19
-: **Beyond text**{: .label .label-green} Embodied interactive agents
+: **Beyond text**{: .label .label-green} Vision and language
+: **Project 4 due EOD**{: .label .label-red}
 
 Nov 21
-: Panel: NLP beyond text (speech vision, embodiment)
+: **Beyond text**{: .label .label-green} Embodied interactive agents
 
 Nov 26
-: Panel: NLP beyond English
+: Panel: NLP beyond text (speech vision, embodiment)
 
 Nov 28
 : HOLIDAY
