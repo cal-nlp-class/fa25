@@ -80,7 +80,7 @@ Oct 29
 : **Project 3 due EOD**{: .label .label-red}
 
 Oct 31
-: **LLMs**{: .label .label-orange} Misc: more inference, RLHF alternatives, interpretability, etc.
+: **LLMs**{: .label .label-orange} [Misc: more inference, RLHF alternatives, interpretability, etc.](slides/10-31-misc-llms.pdf)
 
 Nov 5
 : Panel: considerations in building/deploying LLMs (risks, harms, misuse)
