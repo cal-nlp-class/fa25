@@ -86,7 +86,7 @@ Nov 5
 : Panel: considerations in building/deploying LLMs (risks, harms, misuse)
 
 Nov 7
-: **Beyond text**{: .label .label-green} Pragmatics
+: **Beyond text**{: .label .label-green} [Pragmatics](slides/11-07-pragmatics.pdf)
 
 Nov 12
 : **Beyond text**{: .label .label-green} Speech
