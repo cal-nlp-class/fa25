@@ -110,7 +110,7 @@ Nov 28
 : HOLIDAY
 
 Dec 3
-: Panel: limitations
+: Guest Lecture: [Sarah Schwettmann](https://www.cogconfluence.com/), Transluce AI
 
 Dec 5
 : Panel: future of NLP
