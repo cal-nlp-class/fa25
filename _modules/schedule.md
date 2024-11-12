@@ -104,7 +104,7 @@ Nov 21
 : **Beyond text**{: .label .label-green} Embodied interactive agents
 
 Nov 26
-: Panel: NLP beyond text (speech vision, embodiment)
+: Guest Lecture: [Gopala Anumanchipalli](http://people.eecs.berkeley.edu/~gopala/), Berkeley EECS
 
 Nov 28
 : HOLIDAY
@@ -113,5 +113,5 @@ Dec 3
 : Guest Lecture: [Sarah Schwettmann](https://www.cogconfluence.com/), Transluce AI
 
 Dec 5
-: Panel: future of NLP
+: Panel: future of NLP (virtual only)
 <!-- : **Project 5 due EOD**{: .label .label-red} -->
