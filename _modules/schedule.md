@@ -89,7 +89,7 @@ Nov 7
 : **Beyond text**{: .label .label-green} [Pragmatics](slides/11-07-pragmatics.pdf)
 
 Nov 12
-: **Beyond text**{: .label .label-green} Speech
+: **Beyond text**{: .label .label-green} [Speech](slides/11-12-speech.pdf)
 | [J&M 16](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
 
 Nov 14
