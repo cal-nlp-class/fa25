@@ -91,20 +91,20 @@ Nov 7
 Nov 12
 : **Beyond text**{: .label .label-green} [Speech](slides/11-12-speech.pdf)
 | [J&M 16](https://web.stanford.edu/~jurafsky/slp3/16.pdf)
+: **Project 5 released**{: .label .label-yellow}
 
 Nov 14
 : **Beyond text**{: .label .label-green} Speech
-<!-- : **Project 5 released**{: .label .label-yellow} -->
 
 Nov 19
-: **Beyond text**{: .label .label-green} Vision and language
+: Guest Lecture: [Gopala Anumanchipalli](http://people.eecs.berkeley.edu/~gopala/), Berkeley EECS
 : **Project 4 due EOD**{: .label .label-red}
 
 Nov 21
-: **Beyond text**{: .label .label-green} Embodied interactive agents
+: **Beyond text**{: .label .label-green} Vision and language
 
 Nov 26
-: Guest Lecture: [Gopala Anumanchipalli](http://people.eecs.berkeley.edu/~gopala/), Berkeley EECS
+: **Beyond text**{: .label .label-green} Embodied interactive agents
 
 Nov 28
 : HOLIDAY
@@ -114,4 +114,4 @@ Dec 3
 
 Dec 5
 : Panel: future of NLP (virtual only)
-<!-- : **Project 5 due EOD**{: .label .label-red} -->
+: **Project 5 due EOD**{: .label .label-red}
