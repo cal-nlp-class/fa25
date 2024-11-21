@@ -101,7 +101,7 @@ Nov 19
 : **Project 4 due EOD**{: .label .label-red}
 
 Nov 21
-: **Beyond text**{: .label .label-green} Vision and language
+: **Beyond text**{: .label .label-green} [Vision and language](slides/11-21-vision-language.pdf)
 
 Nov 26
 : **Beyond text**{: .label .label-green} Embodied interactive agents
