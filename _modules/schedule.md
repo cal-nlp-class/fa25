@@ -104,7 +104,7 @@ Nov 21
 : **Beyond text**{: .label .label-green} [Vision and language](slides/11-21-vision-language.pdf)
 
 Nov 26
-: **Beyond text**{: .label .label-green} Embodied interactive agents
+: **Beyond text**{: .label .label-green} [Embodied interactive agents](slides/11-14-embodiment.pdf)
 
 Nov 28
 : HOLIDAY
