@@ -1,6 +1,6 @@
 ---
 name: Kayo Yin
-role: Instructor
+role: Teaching Assistant
 email: kayoyin@berkeley.edu
 website: https://kayoyin.github.io/
 ---
