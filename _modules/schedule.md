@@ -2,100 +2,46 @@
 title: Schedule
 ---
 
-August 28
-:**Introduction**{: .label .label-blue}
-[What is NLP?](slides/L1_NLP.pdf) | [Logistics](slides/L1_Logistics.pdf)
+<style>
+	.intro-row { background: #e3f2fd; color: #1a237e; }
+	.ling-row { background: #e8f5e9; color: #1b5e20; }
+	.seq-row { background: #fffde7; color: #f57c00; }
+	.speech-row { background: #f3e5f5; color: #4a148c; }
+	.struct-row { background: #fbe9e7; color: #bf0ca4ff; }
+	.llm-row { background: #e0f7fa; color: #006064; }
+	.langtech-row { background: #f9fbe7; color: #827717; }
+	.exam-row { background: #ffebee; color: #b71c1c; font-weight: bold; }
+</style>
 
-September 2
-:**Linguistics**{: .label .label-blue}
-Tasks, data, evaluation
 
-September 4
-:**Linguistics**{: .label .label-blue}
-Speech; tokens and types; word embeddings
-
-September 9
-:**Linguistics**{: .label .label-blue}
-Syntax; semantics
-
-September 11
-:**Linguistics**{: .label .label-blue}
-Dialogue, conversation, and interaction
-
-September 16
-:**Sequence Modeling**{: .label .label-blue}
-Multilinguality; LM objectives; evaluation; count-based LMs
-
-September 18
-:**Sequence Modeling**{: .label .label-blue}
-FF language models; text classification
-
-September 23
-:**Sequence Modeling**{: .label .label-blue}
-Tagging; HMMs; decoding
-
-September 25
-:**Sequence Modeling**{: .label .label-blue}
-
-September 30
-:**Sequence Modeling**{: .label .label-blue}
-
-October 2
-:**Sequence Modeling**{: .label .label-blue}
-
-October 7
-:**Sequence Modeling**{: .label .label-blue}
-
-October 9
-:**Speech Modeling**{: .label .label-blue}
-
-October 14
-:**MIDTERM EXAM**{: .label .label-red}
-
-October 16
-:**Speech Modeling**{: .label .label-blue}
-
-October 21
-:**Speech Modeling**{: .label .label-blue}
-
-October 23
-:**Speech Modeling**{: .label .label-blue}
-
-October 28
-:**Structure Modeling**{: .label .label-blue}
-
-October 30
-:**Structure Modeling**{: .label .label-blue}
-
-November 4
-:**Modern LLM recipe**{: .label .label-blue}
-
-November 6
-:**Modern LLM recipe**{: .label .label-blue}
-
-November 11
-:**Modern LLM recipe**{: .label .label-blue}
-
-November 13
-:**Modern LLM recipe**{: .label .label-blue}
-
-November 18
-:**Modern LLM recipe**{: .label .label-blue}
-
-November 20
-:**Modern LLM recipe**{: .label .label-blue}
-
-November 25
-:**Using Language Technology**{: .label .label-blue}
-
-November 27
-:**Using Language Technology**{: .label .label-blue}
-
-December 2
-:**Using Language Technology**{: .label .label-blue}
-
-December 4
-:**Using Language Technology**{: .label .label-blue}
-
-December 19
-:**FINAL EXAM**{: .label .label-red}
+|--------------|---------------------|---------------------------------------------------------------|
+| August 28    | <span class="intro-row">Introduction</span>        | [What is NLP?](slides/L1_NLP.pdf) &#124; [Logistics](slides/L1_Logistics.pdf) |
+| September 2  | <span class="ling-row">Linguistics</span>         | Tasks, data, evaluation                                       |
+| September 4  | <span class="ling-row">Linguistics</span>         | Speech; tokens and types; word embeddings                     |
+| September 9  | <span class="ling-row">Linguistics</span>         | Syntax; semantics                                             |
+| September 11 | <span class="ling-row">Linguistics</span>         | Dialogue, conversation, and interaction                       |
+| September 16 | <span class="seq-row">Sequence Modeling</span>   | Multilinguality; LM objectives; evaluation; count-based LMs   |
+| September 18 | <span class="seq-row">Sequence Modeling</span>   | FF language models; text classification                       |
+| September 23 | <span class="seq-row">Sequence Modeling</span>   | Tagging; HMMs; decoding                                       |
+| September 25 | <span class="seq-row">Sequence Modeling</span>   |                                                               |
+| September 30 | <span class="seq-row">Sequence Modeling</span>   |                                                               |
+| October 2    | <span class="seq-row">Sequence Modeling</span>   |                                                               |
+| October 7    | <span class="seq-row">Sequence Modeling</span>   |                                                               |
+| October 9    | <span class="speech-row">Speech Modeling</span>     |                                                               |
+| October 14   | <span class="exam-row">MIDTERM EXAM</span>        |                                                               |
+| October 16   | <span class="speech-row">Speech Modeling</span>     |                                                               |
+| October 21   | <span class="speech-row">Speech Modeling</span>     |                                                               |
+| October 23   | <span class="speech-row">Speech Modeling</span>     |                                                               |
+| October 28   | <span class="struct-row">Structure Modeling</span>  |                                                               |
+| October 30   | <span class="struct-row">Structure Modeling</span>  |                                                               |
+| November 4   | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 6   | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 11  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 13  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 18  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 20  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 25  | <span class="langtech-row">Using Language Technology</span> |                                                         |
+| November 27  | <span class="langtech-row">Using Language Technology</span> |                                                         |
+| December 2   | <span class="langtech-row">Using Language Technology</span> |                                                         |
+| December 4   | <span class="langtech-row">Using Language Technology</span> |                                                         |
+| December 19  | <span class="exam-row">FINAL EXAM</span>          |                                                               |
