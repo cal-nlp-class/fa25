@@ -4,35 +4,35 @@ title: Schedule
 
 August 28
 :**Introduction**{: .label .label-blue}
-[What is NLP?]()
+[What is NLP?](slides/L1_NLP.pdf) | [Logistics](slides/L1_Logistics.pdf)
 
 September 2
 :**Linguistics**{: .label .label-blue}
-[Tasks, data, evaluation]()
+Tasks, data, evaluation
 
 September 4
 :**Linguistics**{: .label .label-blue}
-[Speech; tokens and types; word embeddings]()
+Speech; tokens and types; word embeddings
 
 September 9
 :**Linguistics**{: .label .label-blue}
-[Syntax; semantics]()
+Syntax; semantics
 
 September 11
 :**Linguistics**{: .label .label-blue}
-[Dialogue, conversation, and interaction]()
+Dialogue, conversation, and interaction
 
 September 16
 :**Sequence Modeling**{: .label .label-blue}
-[Multilinguality; LM objectives; evaluation; count-based LMs]()
+Multilinguality; LM objectives; evaluation; count-based LMs
 
 September 18
 :**Sequence Modeling**{: .label .label-blue}
-[FF language models; text classification]()
+FF language models; text classification
 
 September 23
 :**Sequence Modeling**{: .label .label-blue}
-[Tagging; HMMs; decoding]()
+Tagging; HMMs; decoding
 
 September 25
 :**Sequence Modeling**{: .label .label-blue}
