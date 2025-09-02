@@ -16,7 +16,7 @@ title: Schedule
 
 |--------------|---------------------|---------------------------------------------------------------|
 | August 28    | <span class="intro-row">Introduction</span>        | [What is NLP?](slides/L1_NLP.pdf) &#124; [Logistics](slides/L1_Logistics.pdf) |
-| September 2  | <span class="ling-row">Linguistics</span>         | Tasks, data, evaluation                                       |
+| September 2  | <span class="ling-row">Linguistics</span>         | [Tasks, data, evaluation](slides/L2_TasksDataEval.pdf)                                       |
 | September 4  | <span class="ling-row">Linguistics</span>         | Speech; tokens and types; word embeddings                     |
 | September 9  | <span class="ling-row">Linguistics</span>         | Syntax; semantics                                             |
 | September 11 | <span class="ling-row">Linguistics</span>         | Dialogue, conversation, and interaction                       |
