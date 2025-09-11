@@ -16,10 +16,10 @@ title: Schedule
 
 |--------------|---------------------|---------------------------------------------------------------|
 | August 28    | <span class="intro-row">Introduction</span>        | [What is NLP?](slides/L1_NLP.pdf) &#124; [Logistics](slides/L1_Logistics.pdf) |
-| September 2  | <span class="ling-row">Linguistics</span>         | [Tasks, data, evaluation](slides/L2_TasksDataEval.pdf)                                       |
-| September 4  | <span class="ling-row">Linguistics</span>         | [Speech; tokens and types; word embeddings](slides/LinguisticsLexicalSemantics.pdf)                     |
-| September 9  | <span class="ling-row">Linguistics</span>         | [Syntax; semantics](slides/EECS_183_283A_L4_Syntax.pdf)                                             |
-| September 11 | <span class="ling-row">Linguistics</span>         | Dialogue, conversation, and interaction                       |
+| September 2  | <span class="ling-row">Linguistics</span>         | [Tasks, data, evaluation](slides/EECS_183_283a_L2_TasksDataEval.pdf)                                       |
+| September 4  | <span class="ling-row">Linguistics</span>         | [Speech; tokens and types; lexical semantics](slides/EECS_183_283a_L3_Linguistics_Speech_LexicalSemantics.pdf)                     |
+| September 9  | <span class="ling-row">Linguistics</span>         | [Word embeddings; syntax](slides/EECS_183_283A_L4_Syntax.pdf)                                             |
+| September 11 | <span class="ling-row">Linguistics</span>         | [Sentence-level semantics](slides/EECS_183_283a_L5_CompositionalSemantics.pdf); [dialogue, conversation, and interaction](slides/EECS_183_283a_L5_Interaction.pdf)                       |
 | September 16 | <span class="seq-row">Sequence Modeling</span>   | Multilinguality; LM objectives; evaluation; count-based LMs   |
 | September 18 | <span class="seq-row">Sequence Modeling</span>   | FF language models; text classification                       |
 | September 23 | <span class="seq-row">Sequence Modeling</span>   | Tagging; HMMs; decoding                                       |
