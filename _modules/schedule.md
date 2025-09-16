@@ -19,8 +19,8 @@ title: Schedule
 | September 2  | <span class="ling-row">Linguistics</span>         | [Tasks, data, evaluation](slides/EECS_183_283a_L2_TasksDataEval.pdf)                                       |
 | September 4  | <span class="ling-row">Linguistics</span>         | [Speech; tokens and types; lexical semantics](slides/EECS_183_283a_L3_Linguistics_Speech_LexicalSemantics.pdf)                     |
 | September 9  | <span class="ling-row">Linguistics</span>         | [Word embeddings; syntax](slides/EECS_183_283A_L4_Syntax.pdf)                                             |
-| September 11 | <span class="ling-row">Linguistics</span>         | [Sentence-level semantics](slides/EECS_183_283a_L5_CompositionalSemantics.pdf); [dialogue, conversation, and interaction](slides/EECS_183_283a_L5_Interaction.pdf)                       |
-| September 16 | <span class="seq-row">Sequence Modeling</span>   | Multilinguality; LM objectives; evaluation; count-based LMs   |
+| September 11 | <span class="ling-row">Linguistics</span>         | [Sentence-level semantics](slides/EECS_183_283a_L5_CompositionalSemantics.pdf) \| [Dialogue, conversation, and interaction](slides/EECS_183_283a_L5_Interaction.pdf)                       |
+| September 16 | <span class="seq-row">Sequence Modeling</span>   | [Multilinguality](slides/EECS_183_283a_L6_Multilingual.pdf) \| [LM objectives; evaluation; count-based LMs](slides/EECS_183_283a_L6_SequenceModeling.pdf)   |
 | September 18 | <span class="seq-row">Sequence Modeling</span>   | FF language models; text classification                       |
 | September 23 | <span class="seq-row">Sequence Modeling</span>   | Tagging; HMMs; decoding                                       |
 | September 25 | <span class="seq-row">Sequence Modeling</span>   |                                                               |
