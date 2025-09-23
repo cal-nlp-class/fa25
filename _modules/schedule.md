@@ -22,7 +22,7 @@ title: Schedule
 | September 11 | <span class="ling-row">Linguistics</span>         | [Sentence-level semantics](slides/EECS_183_283a_L5_CompositionalSemantics.pdf) \| [Dialogue, conversation, and interaction](slides/EECS_183_283a_L5_Interaction.pdf)                       |
 | September 16 | <span class="seq-row">Sequence Modeling</span>   | [Multilinguality](slides/EECS_183_283a_L6_Multilingual.pdf) \| [Sequence modeling](slides/EECS_183_283a_L6_SequenceModeling.pdf)   |
 | September 18 | <span class="seq-row">Sequence Modeling</span>   | [Sequence generation](slides/EECS_183_283a_L7_Generation.pdf) \| [N-gram language models](slides/EECS_183_283a_L7_NGrams.pdf)
-| September 23 | <span class="seq-row">Sequence Modeling</span>   | [Neural Sequence Modelling](slides/EECS_183_283a_L8_NeuralSequenceModeling.pdf)                                      |
+| September 23 | <span class="seq-row">Sequence Modeling</span>   | [Neural Sequence Modelling](slides/EECS_183_283a_L8_NeuralSequenceModeling.pdf) \| [Sequence encoding and text classification](slides/EECS_183_283a_L8_SequenceEmbedding.pdf)
 | September 25 | <span class="seq-row">Sequence Modeling</span>   |                                                               |
 | September 30 | <span class="seq-row">Sequence Modeling</span>   |                                                               |
 | October 2    | <span class="seq-row">Sequence Modeling</span>   |                                                               |
