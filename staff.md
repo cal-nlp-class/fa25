@@ -4,6 +4,7 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
+Course Staff Email : eecs183@lists.berkeley.edu
 
 ## Instructors
 
