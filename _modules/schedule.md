@@ -25,7 +25,7 @@ title: Schedule
 | September 23 | <span class="seq-row">Sequence Modeling</span>   | [Neural Sequence Modelling](slides/EECS_183_283a_L8_NeuralSequenceModeling.pdf) \| [Sequence encoding and text classification](slides/EECS_183_283a_L8_SequenceEmbedding.pdf)
 | September 25 | <span class="seq-row">Sequence Modeling</span>   | [Sequence-to-Sequence Modelling](slides/EECS_183_283a_L9_seq2seq.pdf)|
 | September 30 | <span class="seq-row">Sequence Modeling</span>   | [Attention](slides/EECS_183_283a_L10_Attention.pdf)           |
-| October 2    | <span class="seq-row">Sequence Modeling</span>   |                                                               |
+| October 2    | <span class="seq-row">Sequence Modeling</span>   | [Transformer](slides/EECS_183_283a_L11_Transformer.pdf)       |
 | October 7    | <span class="seq-row">Sequence Modeling</span>   |                                                               |
 | October 9    | <span class="speech-row">Speech Modeling</span>     |                                                               |
 | October 14   | <span class="exam-row">MIDTERM EXAM</span>        |                                                               |
