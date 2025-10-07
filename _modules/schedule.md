@@ -26,7 +26,7 @@ title: Schedule
 | September 25 | <span class="seq-row">Sequence Modeling</span>   | [Sequence-to-Sequence Modelling](slides/EECS_183_283a_L9_seq2seq.pdf)|
 | September 30 | <span class="seq-row">Sequence Modeling</span>   | [Attention](slides/EECS_183_283a_L10_Attention.pdf)           |
 | October 2    | <span class="seq-row">Sequence Modeling</span>   | [Transformer](slides/EECS_183_283a_L11_Transformer.pdf)       |
-| October 7    | <span class="seq-row">Sequence Modeling</span>   |                                                               |
+| October 7    | <span class="seq-row">Speech Modeling</span>   |   [Speech Preliminaries](slides/EECS_183_283a_L12_SpeechIntro.pdf)                                                            |
 | October 9    | <span class="speech-row">Speech Modeling</span>     |                                                               |
 | October 14   | <span class="exam-row">MIDTERM EXAM</span>        |                                                               |
 | October 16   | <span class="speech-row">Speech Modeling</span>     |                                                               |
