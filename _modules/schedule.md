@@ -28,7 +28,7 @@ title: Schedule
 | October 2    | <span class="seq-row">Sequence Modeling</span>   | [Transformer](slides/EECS_183_283a_L11_Transformer.pdf)       |
 | October 7    | <span class="seq-row">Speech Modeling</span>   |   [Speech Preliminaries](slides/EECS_183_283a_L12_SpeechIntro.pdf)                                                            |
 | October 9    | <span class="speech-row">Speech Modeling</span>     |  [Speech Recognition](slides/EECS_183_283a_L13_ASR.pdf)     |
-| October 14   | <span class="exam-row">MIDTERM EXAM</span>        |                                                               |
+| October 14   | <span class="exam-row">MIDTERM EXAM</span>        |    [Self-Supervised Learning for Speech](slides/EECS_183_283a_L14_SSL.pdf)                                                           |
 | October 16   | <span class="speech-row">Speech Modeling</span>     |                                                               |
 | October 21   | <span class="speech-row">Speech Modeling</span>     |                                                               |
 | October 23   | <span class="speech-row">Speech Modeling</span>     |                                                               |
