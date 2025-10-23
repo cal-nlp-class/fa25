@@ -31,7 +31,7 @@ title: Schedule
 | October 14   | <span class="exam-row">MIDTERM EXAM</span>        |     NO CLASS                                                         |
 | October 16   | <span class="speech-row">Speech Modeling</span>     |   [Self-Supervised Learning for Speech](slides/EECS_183_283a_L14_SSL.pdf)  |
 | October 21   | <span class="speech-row">Speech Modeling</span>     |   [Text-to-Speech Synthesis](slides/EECS_183_283a_L15_TTS.pdf)             |
-| October 23   | <span class="speech-row">Speech Modeling</span>     |                                                               |
+| October 23   | <span class="speech-row">Speech Modeling</span>     |   [Neural TTS + Spoken LM](slides/EECS_183_283a_L16_NeuralTTS.pdf)                                                             |
 | October 28   | <span class="struct-row">Structure Modeling</span>  |                                                               |
 | October 30   | <span class="struct-row">Structure Modeling</span>  |                                                               |
 | November 4   | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
