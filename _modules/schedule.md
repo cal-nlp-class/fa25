@@ -34,8 +34,8 @@ title: Schedule
 | October 23   | <span class="speech-row">Speech Modeling</span>     |   [Neural TTS + Spoken LM](slides/EECS_183_283a_L16_NeuralTTS.pdf)                                                             |
 | October 28   | <span class="struct-row">Structure Modeling</span>  |   [Structured Prediction](slides/EECS_183_283a_L17_HMMs.pdf)      |
 | October 30   | <span class="struct-row">Structure Modeling</span>  |   [Structured Prediction II](slides//EECS_183_283a_HMMs_forward_backward.pdf)                               |
-| November 4   | <span class="llm-row">Modern LLM recipe</span>   |      [LLMRecap](slides/EECS_183_283a_L19_LLMRecap.pdf)                  |
-| November 6   | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 4   | <span class="llm-row">Modern LLM recipe</span>   |      [LLM Recap](slides/EECS_183_283a_L19_LLMRecap.pdf)                  |
+| November 6   | <span class="llm-row">Modern LLM recipe</span>   |      [LLM Pretraining](slides/EECS_183_283a_L20_LLM_Pretraining.pdf)     |
 | November 11  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
 | November 13  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
 | November 18  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
