@@ -38,7 +38,7 @@ title: Schedule
 | November 6   | <span class="llm-row">Modern LLM recipe</span>   |      [LLM Pre-training](slides/EECS_183_283a_L20_LLM_Pretraining.pdf)     |
 | November 11  | <span class="llm-row">Modern LLM recipe</span>   |      [LLM Post-training](slides/EECS_183_283a_Posttraining.pdf)     |
 | November 13  | <span class="llm-row">Modern LLM recipe</span>   |      [LLM Post-training](slides/EECS_183_283a_Posttraining.pdf)     |
-| November 18  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
+| November 18  | <span class="llm-row">Modern LLM recipe</span>   |      [Efficient Adaptation](slides/EECS_183_283a_L22_Adaptation.pdf)  |
 | November 20  | <span class="llm-row">Modern LLM recipe</span>   |                                                               |
 | November 25  | <span class="langtech-row">Using Language Technology</span> |                                                         |
 | November 27  | <span class="langtech-row">Using Language Technology</span> |                                                         |
