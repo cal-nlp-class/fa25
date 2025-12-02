@@ -41,7 +41,6 @@ title: Schedule
 | November 18  | <span class="llm-row">Modern LLM recipe</span>   |      [Efficient Adaptation](slides/EECS_183_283a_L22_Adaptation.pdf)  |
 | November 20  | <span class="llm-row">Using Language Technology</span> |[Spoken Dialog System](slides/EECS_183_283a_L23_SpokenDialog.pdf)                 |
 | November 25  | <span class="langtech-row">Using Language Technology</span> | [Vision and Language](slides/EECS_183_283a_VisionLanguage.pdf)                                                          |
-| November 27  | <span class="langtech-row">Using Language Technology</span> | [Agents and Reasoning](slides/EECS_183_283a_Agents_Reasoning.pdf)            |
-| December 2   | <span class="langtech-row">Using Language Technology</span> |                                                         |
+| December 2   | <span class="langtech-row">Using Language Technology</span> | [Agents and Reasoning](slides/EECS_183_283a_Agents_Reasoning.pdf)            |
 | December 4   | <span class="langtech-row">Using Language Technology</span> |                                                         |
 | December 19  | <span class="exam-row">FINAL EXAM</span>          |                                                               |
